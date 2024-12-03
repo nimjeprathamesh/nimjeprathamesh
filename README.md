@@ -7,7 +7,7 @@
 ⚡ Fun fact I use tabs over spaces
 
 ---
- ![](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nimjeprathamesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nimjeprathamesh&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
