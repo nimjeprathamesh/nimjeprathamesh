@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Nimje</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 💫 About Me:<br>
-🔭 I’m currently working at Radical global in Nagpur, India.
+🔭 I’m currently working at Radical global in Nagpur, India<br>
+🌱 I’m currently learning Next.js<br>
+💬 Ask me about MERN Stack and Related Technologies<br>
+⚡ Fun fact I use tabs over spaces
 
 ---
  ![](https://visitcount.itsvg.in)
