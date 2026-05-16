@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nimjeprathamesh&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimjeprathamesh&theme=dracula&bg_color=181824&hide_border=true" alt="Prathamesh's Contribution Graph" />
 </p>
 
 ---
