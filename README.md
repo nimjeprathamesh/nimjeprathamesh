@@ -46,26 +46,15 @@
 
 ## 📊 Performance & Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nimjeprathamesh&theme=dracula&show_icons=true&count_private=true&hide_border=true" alt="Prathamesh's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimjeprathamesh&theme=dracula&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=nimjeprathamesh&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimjeprathamesh&theme=dracula&show_icons=true&count_private=true&hide_border=true" alt="Prathamesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimjeprathamesh&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=nimjeprathamesh&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="48%" />
+</p>
 
 ---
 
