@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=25,12,38,100&height=180&section=header&text=Prathamesh%20Nimje&fontSize=50&animation=twinkling&fontAlignY=45" width="100%" />
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=100&lines=Prathamesh+Nimje" alt="Prathamesh Nimje" />
 
+  <br />
+  <h1>Hi 👋, I'm Prathamesh Nimje</h1>
   <h3>🌟 Full Stack Software Engineer | Mobile Developer</h3>
   
   <p align="center">
