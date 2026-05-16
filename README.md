@@ -46,19 +46,17 @@
 
 ## 📊 Performance & Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=nimjeprathamesh&theme=dracula&show_icons=true&count_private=true" alt="Prathamesh's GitHub Stats" />
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimjeprathamesh&theme=dracula&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nimjeprathamesh&theme=dracula&hide_border=false" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimjeprathamesh&theme=dracula" alt="GitHub Streak" />
+</p>
 
-</div>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact&hide_border=false" alt="Top Languages" />
-  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=nimjeprathamesh&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=nimjeprathamesh&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
