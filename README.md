@@ -1,13 +1,9 @@
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=100&lines=Prathamesh+Nimje" alt="Prathamesh Nimje" />
-
-  <br />
-  <h1>Hi 👋, I'm Prathamesh Nimje</h1>
-  <h3>🌟 Full Stack Software Engineer | Mobile Developer</h3>
   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=80&lines=Prathamesh+Nimje;Full+Stack+Engineer;Mobile+App+Developer" alt="Typing Showcase" />
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nimjeprathamesh&label=Profile%20Views&color=61dafb&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=nimjeprathamesh&label=PROFILE+VIEWS&color=0077B5&style=flat-square" alt="Views" />
   </p>
 
   <p align="center">
@@ -26,79 +22,100 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%" />
 
 ## 💫 About Me
+
+```💡 "Crafting high-performance web ecosystems and seamless hybrid mobile architectures."```
+
 - 🔭 **Current Focus:** Architecting clean web ecosystems & optimized hybrid mobile architectures.
 - 🌱 **Deep Diving:** Next.js Server Actions, advanced state management, and edge runtimes.
 - 💬 **Ask Me About:** Robust production deployments using the **MERN Stack** & React Native infrastructure.
 - ⚡ **Paradigm:** `Tabs` over spaces (always cleanly scoped).
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br />
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend & Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="33.3%" valign="top" style="padding: 10px;">
+      <h3 align="left">🌐 Frontend & Mobile</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="margin-bottom: 6px;" />
+      </p>
+    </td>
+    <td width="33.3%" valign="top" style="padding: 10px;">
+      <h3 align="left">⚙️ Backend & DB</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=json&logoColor=white" style="margin-bottom: 6px;" />
+      </p>
+    </td>
+    <td width="33.3%" valign="top" style="padding: 10px;">
+      <h3 align="left">🧰 DevOps & Tools</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" style="margin-bottom: 6px;" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" style="margin-bottom: 6px;" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=json&logoColor=white" />
-</p>
-
-### 🧰 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br />
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimjeprathamesh&theme=dracula&no-frame=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nimjeprathamesh&theme=dracula&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br />
 
 ## 📊 Performance & Statistics
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.shion.dev/api?username=nimjeprathamesh&theme=dracula&show_icons=true&count_private=true&hide_border=true" alt="Prathamesh's GitHub Stats" width="420px" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimjeprathamesh&theme=dracula&hide_border=true" alt="GitHub Streak" width="400px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <br />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" width="500px" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 📈 Contribution History
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nimjeprathamesh&theme=dracula&show_icons=true&count_private=true" alt="Prathamesh's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimjeprathamesh&theme=dracula&bg_color=181824&hide_border=true" alt="Prathamesh's Contribution Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimjeprathamesh&theme=dracula" alt="GitHub Streak" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact" alt="Top Languages" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimjeprathamesh&theme=dracula&bg_color=181824&hide_border=true" alt="Prathamesh's Contribution Graph" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-### ✍️ Thought of the Day
+### ✍️ Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
 </p>
