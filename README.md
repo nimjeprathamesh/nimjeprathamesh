@@ -89,6 +89,28 @@
 
 <br />
 
+## 📱 Mobile Apps Published
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.peccular.mechanic" target="_blank">
+    <img src="https://img.shields.io/badge/Mechanic_Invoice_Manager-36C5F0?style=for-the-badge&logo=google-play&logoColor=white" alt="Mechanic Invoice Manager" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.peccular.moneycollect" target="_blank">
+    <img src="https://img.shields.io/badge/Smart_Money_Collection-36C5F0?style=for-the-badge&logo=google-play&logoColor=white" alt="Smart Money Collection" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.peccular.debttracker" target="_blank">
+    <img src="https://img.shields.io/badge/My_Debt_Tracker-36C5F0?style=for-the-badge&logo=google-play&logoColor=white" alt="My Debt Tracker" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.peccular.entrybook" target="_blank">
+    <img src="https://img.shields.io/badge/Entry_Book_Visitor_Management-36C5F0?style=for-the-badge&logo=google-play&logoColor=white" alt="Entry Book Visitor Management" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.peccular.dancestudiomanager" target="_blank">
+    <img src="https://img.shields.io/badge/Dance_Studio_Management-36C5F0?style=for-the-badge&logo=google-play&logoColor=white" alt="Dance Studio Management" />
+  </a>
+</p>
+
+<br />
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nimjeprathamesh&theme=dracula&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
