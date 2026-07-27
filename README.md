@@ -7,19 +7,26 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/prathamesh-nimje-94b43821a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
-      <img src="https://img.shields.io/badge/Naukri-0A66C2?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri" />
-    </a>
-    <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">
-      <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
-    </a>
-    <a href="https://www.instagram.com/prathamesh.nimje.79" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/prathamesh-nimje-94b43821a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://prathamesh-nimje.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Naukri-0A66C2?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri" />
+  </a>
+
+  <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
+  </a>
+
+  <a href="https://www.instagram.com/prathamesh.nimje.79" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%" />
