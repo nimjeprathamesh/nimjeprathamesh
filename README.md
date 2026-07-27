@@ -89,9 +89,9 @@
 
 <br />
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimjeprathamesh&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" width="500px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nimjeprathamesh&theme=dracula&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </p>
 
 <br />
